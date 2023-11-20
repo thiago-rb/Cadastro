@@ -1,0 +1,16 @@
+C:\Users\thiag\Desktop\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\thiag\Desktop\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\thiag\Desktop\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\thiag\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.SuggestedBindingRedirects.cache
+C:\Users\thiag\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\thiag\Desktop\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
+C:\Users\thiag\Desktop\Projetos\Cadastro\Cadastro\bin\Debug\Cadastro.exe.config
+C:\Users\thiag\Desktop\Projetos\Cadastro\Cadastro\bin\Debug\Cadastro.exe
+C:\Users\thiag\Desktop\Projetos\Cadastro\Cadastro\bin\Debug\Cadastro.pdb
+C:\Users\thiag\Desktop\Projetos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.AssemblyReference.cache
+C:\Users\thiag\Desktop\Projetos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.SuggestedBindingRedirects.cache
+C:\Users\thiag\Desktop\Projetos\Cadastro\Cadastro\obj\Debug\Cadastro.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\Projetos\Cadastro\Cadastro\obj\Debug\Cadastro.exe
+C:\Users\thiag\Desktop\Projetos\Cadastro\Cadastro\obj\Debug\Cadastro.pdb
